@@ -1,0 +1,31 @@
+{
+  "author": {
+    "email": "info@matematico.pro",
+    "name": "Andres Rios"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/rianby64/karma-gherkin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rianby64/karma-gherkin/issues"
+  },
+  "homepage": "https://github.com/rianby64/karma-gherkin#readme",
+  "dependencies": {
+    "gherkin": "^3.1.2"
+  },
+  "description": "A simple integration-tool with Karma for writting features",
+  "devDependencies": {
+    "jasmine-core": "^2.3.4",
+    "karma": "^0.13.15",
+    "karma-chrome-launcher": "^0.2.1",
+    "karma-jasmine": "^0.3.6"
+  },
+  "license": "ISC",
+  "main": "lib/index.js",
+  "name": "karma-gherkin",
+  "scripts": {
+    "test": "karma start"
+  },
+  "version": "0.0.4"
+}
