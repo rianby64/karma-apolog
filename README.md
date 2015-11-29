@@ -1,1 +1,1 @@
-# karma-gherkin
+# karma-apolog

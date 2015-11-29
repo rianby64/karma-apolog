@@ -1,18 +1,18 @@
 {
   "author": {
-    "email": "info@matematico.pro",
+    "email": "rianby64@gmail.com",
     "name": "Andres Rios"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/rianby64/karma-gherkin.git"
+    "url": "git+ssh://git@github.com/rianby64/karma-apolog.git"
   },
   "bugs": {
-    "url": "https://github.com/rianby64/karma-gherkin/issues"
+    "url": "https://github.com/rianby64/karma-apolog/issues"
   },
-  "homepage": "https://github.com/rianby64/karma-gherkin#readme",
+  "homepage": "https://github.com/rianby64/karma-apolog#readme",
   "dependencies": {
-    "gherkin": "^3.1.2"
+    "apolog": "0.0.1-a"
   },
   "description": "A simple integration-tool with Karma for writting features",
   "devDependencies": {
@@ -23,7 +23,7 @@
   },
   "license": "ISC",
   "main": "lib/index.js",
-  "name": "karma-gherkin",
+  "name": "karma-apolog",
   "scripts": {
     "test": "karma start"
   },
