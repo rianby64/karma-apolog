@@ -12,7 +12,7 @@
   },
   "homepage": "https://github.com/rianby64/karma-apolog#readme",
   "dependencies": {
-    "apolog": "0.0.1-a"
+    "apolog": "latest"
   },
   "description": "A simple integration-tool with Karma for writting features",
   "devDependencies": {
@@ -27,5 +27,5 @@
   "scripts": {
     "test": "karma start"
   },
-  "version": "0.0.5b"
+  "version": "0.0.5c"
 }
