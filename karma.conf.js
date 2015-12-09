@@ -15,8 +15,10 @@ module.exports = function(config) {
 
     // list of files / patterns to load in the browser
     files: [
-      'test/**/*.test.js',
-      'lib/gherkin.js'
+      'lib/module.js',
+      require.resolve('is-generator'),
+      require.resolve('apolog'),
+      'test/**/*.test.js'
     ],
 
 
